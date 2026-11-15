@@ -1,3 +1,1 @@
-# latres_prak_mobile
-
-A new Flutter project.
+Folder lib/ berisi kode Dart: main.dart (titik awal, menyiapkan Hive dan session), models/ (product, cart_item), services/ (api_service, session_service, cart_service), pages/ (login, main, home, detail, cart, profile), dan utils/ (constants, format). Di luar lib/ ada pubspec.yaml untuk dependency.
